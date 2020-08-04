@@ -1,0 +1,19 @@
+{
+  "name": "sudoku-solver",
+  "author": "Ekoulé Maneng Charly Karl",
+  "version": "0.0.1",
+  "description": "A Sudoku Solver",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "engines": {
+    "node": "10.16.1"
+  }
+}
